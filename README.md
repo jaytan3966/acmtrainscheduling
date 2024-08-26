@@ -8,7 +8,7 @@ The ACM Train Scheduling Program is a Python command-line program enabling users
 * **Search Schedules**: Users can search for train schedules by entering a specific train number to view related entries.
 * **Data Storage**: Train schedules are stored in a text file, trainSchedule.txt.
 
-To view the train scheduling program in action, check out this [video] (https://github.com/user-attachments/assets/d6537c7e-3c9e-4793-beab-7b2e1f476f8b)
+To view the train scheduling program in action, check out this [video](https://github.com/user-attachments/assets/d6537c7e-3c9e-4793-beab-7b2e1f476f8b)
 
 Thank you for checking out the ACM Train Scheduling Program!
 
