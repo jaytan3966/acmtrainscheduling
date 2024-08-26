@@ -12,6 +12,6 @@ To view the train scheduling program in action, check out this [video](https://g
 
 Thank you for checking out the ACM Train Scheduling Program!
 
-/-Jayden Tan, 2023
+\-Jayden Tan, 2023
 
 
